@@ -192,7 +192,7 @@
     /* Intro section */
     .intro {
       background: #f7f7f0;
-      background-image:url(imgs/01render.jpg);
+      background-image:url('imgs/01render.jpg');
       padding: 200px 0;
     }
 
